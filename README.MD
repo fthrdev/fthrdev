@@ -1,15 +1,16 @@
-<h1 align="center">Hi, I'm Fathur Ilman 👋</h1>
+<h1 align="center">Hey there, I'm Fathur Ilman 👋</h1>
+
 <p align="center">
   <img src="https://github.com/fthrdev/fthrdev/blob/main/main/4ff1d52b884997affaa7bc5dc885cbde.jpg" width="25%" />
 </p>
-<p align="center">
-  <b>Builder. Thinker. Learner.</b><br>
-  I don’t just use code — I shape it to explore what’s possible.
-</p>
+
+<h3 align="center"><b>Builder. Thinker. Curious Mind.</b></h3>
+<h4 align="center">I don’t just code — I explore, break things, and rebuild them better.</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Learning+by+doing.;Creating+with+curiosity.;Growing+with+every+line+of+code."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Learning+by+doing.;Creating+with+curiosity.;Growing+with+every+line+of+code."/>
 </p>
+
 
 ---
 
