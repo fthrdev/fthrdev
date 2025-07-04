@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Fathur Ilman 👋</h1>
 <p align="center">
+  <img src="https://github.com/fthrdev/fthrdev/blob/main/main/4ff1d52b884997affaa7bc5dc885cbde.jpg" width="100%" />
+</p>
+<p align="center">
   <b>Builder. Thinker. Learner.</b><br>
   I don’t just use code — I shape it to explore what’s possible.
 </p>
