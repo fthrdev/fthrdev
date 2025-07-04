@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Fathur Ilman 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/fthrdev/fthrdev/blob/main/main/4ff1d52b884997affaa7bc5dc885cbde.jpg" width="25%" />
+  <img src="https://github.com/fthrdev/fthrdev/blob/main/main/4ff1d52b884997affaa7bc5dc885cbde.jpg" width="15%" />
 </p>
 
 <h3 align="center"><b>Builder. Thinker. Curious Mind.</b></h3>
